@@ -1,39 +1,7 @@
 # Pokemon index
 
-A quick search tool for my battle in Pokemon (Gen 1 - 8)
+A quick CLI search tool for my battle in Pokemon (Gen 1 - 8)
 
 ## Data
 
 Mainly from pokemondb.net
-
-## Database Note
-
-https://stackoverflow.com/questions/13177882/implementing-a-database-how-to-get-started
-
-https://cstack.github.io/db_tutorial/
-
-https://medium.com/swlh/how-to-build-a-relational-database-from-scratch-e208061027c7
-
-https://www.youtube.com/watch?v=CLMfk_n8exA
-
-### Btree
-
-https://stackoverflow.com/questions/18955603/b-tree-for-on-disk-storage
-
-https://dzone.com/articles/database-btree-indexing-in-sqlite
-
-https://vi.wikipedia.org/wiki/B-c%C3%A2y
-
-https://viblo.asia/p/mot-it-ve-b-tree-XL6lAPPrZek
-
-### Sort String table
-
-https://www.youtube.com/watch?v=_5vrfuwhvlQ&t=928s
-
-https://stackoverflow.com/questions/58168809/what-is-the-differences-between-the-term-sstable-and-lsm-tree
-
-https://stackoverflow.com/questions/64015859/how-do-lsm-tree-based-dbs-deal-with-concurency-when-updating-the-memtable
-
-https://www.quora.com/What-is-an-SSTable-in-Googles-internal-infrastructure
-
-https://stackoverflow.com/questions/8651346/sorted-string-table-sstable-or-b-tree-for-a-database-index
